@@ -1,0 +1,30 @@
+frontend/src/container/MetricsExplorer/Inspect/__tests__/Inspect.test.tsx
+  s_8d809fae12b768::t_40951d236e0406 124-126,145-147,164-166,183-185
+  s_8d809fae12b768::t_793338c7b3653a 8
+frontend/src/container/MetricsExplorer/Inspect/GraphView.tsx
+  s_8d809fae12b768::t_4a6e63165e8229 186
+  s_8d809fae12b768::t_317447d642669e 28-29
+  s_8d809fae12b768::t_f69af313a766fb 47
+  s_8d809fae12b768::t_531ec04ea01434 10-12,15
+  s_8d809fae12b768::t_8872ef7d6c1b70 99-104
+  s_8d809fae12b768::t_84ad1c3e98f178 30
+frontend/src/container/MetricsExplorer/Inspect/__tests__/GraphView.test.tsx
+  s_8d809fae12b768::t_2618bac5333c59 6
+  s_8d809fae12b768::t_618c7249b0434b 73-75,85-87,101-103
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.21",
+  "base_commit_sha": "ea68f41e16bd24da3151f0287fe838b54cdf53e6",
+  "prompts": {},
+  "sessions": {
+    "s_8d809fae12b768": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "376034d4-bbc2-4477-9549-8d4ddf1fad87",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Hamza Mohammad <hmohammad@openlaw.com.au>"
+    }
+  }
+}
